@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f6cb;
+    margin: 20;
+    padding: 20;
+}
+
+h1 {
+    text-align: center;
+}
+
+header {
+    background-color: #ebd7e8;
+    padding: 20px;
+    text-align: center;
+}
+
+h2 {
+    background-color: #b5be97;
+    text-align: center;
+}
+
+h3 {
+    background-color: #b5be97;
+    text-align: center;
+}
+
+h4 {
+    background-color: #b5be97;
+    text-align: center;
+}
+
+nav {
+    background-color: #c9c7c8;
+    padding: 10px;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    font-size: 20px;
+    line-height: 1.6;
+}
+
+footer {
+    background-color: #a0ab59;
+    padding: 10px;
+    text-align: center;
+}
+
+.product-card {
+    background-color: #f5f5f5;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+}
